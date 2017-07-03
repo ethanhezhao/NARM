@@ -14,6 +14,6 @@ To run the demo of AsymNARM, please go to the directory "AsymNARM" and run "demo
 
 For AsymNARM, some functions are from the [code](http://people.duke.edu/~ch237/Softwares/hiercode.zip) of Changwei Hu.
 
-For more details, please see the [paper](https://arxiv.org/abs/1706.04289).
+More details can be found in the [paper](https://arxiv.org/abs/1706.04289).
 
 
